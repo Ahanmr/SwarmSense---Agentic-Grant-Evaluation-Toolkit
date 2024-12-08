@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![SwarmSense Logo](assets/logo.png)
 
 *A decentralized grant proposal evaluation and project token creation system*
 
@@ -48,13 +47,13 @@ SwarmSense is a fully decentralized grant proposal evaluation system that combin
 ## Screenshots
 
 ### Content Evaluation Interface
-![Screenshot 1](screenshot_1.png)
+![Screenshot 1](Screenshot_1.png)
 
 ### Detailed Narrative Analysis
-![Screenshot 2](screenshot_2.png)
+![Screenshot 2](Screenshot_2.png)
 
 ### Structured Evaluation
-![Screenshot 3](screenshot_3.png)
+![Screenshot 3](Screenshot_3.png)
 
 ### Evaluation Results
-![Screenshot 4](screenshot_4.png)
+![Screenshot 4](Screenshot_4.png)
