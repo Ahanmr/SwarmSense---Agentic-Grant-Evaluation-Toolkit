@@ -15,6 +15,11 @@
 
 SwarmSense is a fully decentralized grant proposal evaluation system that combines Coinbase Developer Platform (CDP) for blockchain interactions with GAIAnet Swarm's decentralized AI models. The system leverages multiple decentralized components to ensure fair, transparent, and automated evaluation of blockchain project proposals with seamless on-chain execution capabilities.
 
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/keph1HPbI5Q/0.jpg)](https://youtu.be/keph1HPbI5Q?si=8W0cM-Q3PUKwtsWX)
+
+
 ## 🎯 Problem It Solves
 
 - **Decentralized Grant Evaluation**: Traditional grant evaluation systems are centralized and often biased. Our solution uses a combination of decentralized AI models and popular SOTA models (GAIAnet Swarm and XAI) to provide fair and transparent evaluations.
