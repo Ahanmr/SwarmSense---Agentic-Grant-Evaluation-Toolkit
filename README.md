@@ -40,5 +40,3 @@ SwarmSense is a fully decentralized grant proposal evaluation system that combin
 - Automated milestone tracking and verification
 - AI-driven fund disbursement and token creation
 
-## 🛠️ Installation
-
